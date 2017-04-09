@@ -1,7 +1,7 @@
 module.exports = {
   initialize: function(api, next){
     
-    api.actionProcessor.prototype.runAction = function(){
+    api.ActionProcessor.prototype.runAction = function(){
       var self = this;
 
       self.preProcessAction(function(error){
