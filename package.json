@@ -5,7 +5,7 @@
   },
   "name": "ah-bluebird-plugin",
   "description": "I provide automatic and transparent promise chain support for the ActionHero API framework",
-  "version": "0.0.1",
+  "version": "1.0.0-alpha",
   "homepage": "https://github.com/dangerdespain/ah-bluebird-plugin",
   "repository": {
     "type": "git",
@@ -38,6 +38,5 @@
       "email": "devin@dspa.in"
     }
   ],
-  "directories": {},
-  "readme": "ERROR: No README data found!",
+  "directories": {}
 }
